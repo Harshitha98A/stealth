@@ -1,0 +1,8 @@
+llama-index
+openai
+streamlit
+transformers
+accelerate
+IPython
+llama-index-readers-file
+
